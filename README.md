@@ -1,7 +1,7 @@
 # KRISTIAN MORENO
-Hi there! my name is Kristian Moreno, I'm a Computer Science student from Davao City. </br>
+Hi there! I'm a Computer Scientist from Davao City. </br>
 I love doing data related tasks such as visualization, analysis and forecasting. </br>
-I also love doing machine learning activities particularly Convolutional Neural Network and Image processing. </br>
+I mostly deal on machine learning particularly Convolutional Neural Network and in the area of Image processing. </br>
 </br>
 Programming languages: </br>
 R </br>
