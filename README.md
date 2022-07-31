@@ -8,4 +8,4 @@ R </br>
 Python </br>
 Java </br>
 Jupyter </br>
-Basic Html </br>
+Html </br>
