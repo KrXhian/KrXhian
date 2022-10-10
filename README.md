@@ -9,3 +9,4 @@ Python </br>
 Java </br>
 Jupyter </br>
 Html </br>
+SQL </br>
