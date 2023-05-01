@@ -7,6 +7,4 @@ Programming languages: </br>
 R </br>
 Python </br>
 Java </br>
-Jupyter </br>
-Html </br>
 SQL </br>
