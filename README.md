@@ -1,5 +1,20 @@
-**Languages**: Java, Scala, SQL, Python, C++
-**Databases**: PostgreSQL, MySQL, SQLite
-**Data Warehouses**: Snowflake, Clickhouse
+**Languages**
+- Java
+- Scala
+- SQL
+- Python
+- C++
 
-**IDE**: neovim
+**Databases**
+- PostgreSQL
+- MySQL
+- SQLite
+
+**Data Warehouses**
+- Snowflake
+- Clickhouse
+
+**IDE**
+- neovim (personal projects)
+- vi/vim
+- vscode (j*b)
